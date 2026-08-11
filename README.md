@@ -1,5 +1,8 @@
 # lsc_forecast
+
 Sample SQL - Circa 2015
+
+## Cohort-Based Lead Maturity Forecasting Model
 
 This T-SQL model was built to forecast the eventual performance of digital marketing leads before those leads had enough time to fully mature through the sales funnel.
 
