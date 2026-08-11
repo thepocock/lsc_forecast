@@ -11,6 +11,15 @@ The script also performs a historical backfill, repeatedly advancing the observa
 
 The model includes:
 
-Historical cohort and lead-maturity analysis Days-to-submission distribution and cumulative completion curves Forecasting of incomplete lead cohorts Actual vs. forecast vs. historical baseline reporting Submission, settlement, conversion, production, and premium metrics Lead-source-specific forecasting Rolling historical reference periods Historical forecast reconstruction for backtesting Multi-stage transformations implemented through chained CTEs Automated persistence of forecast snapshots for downstream reporting and analysis
+- Historical cohort and lead-maturity analysis
+- Days-to-submission distribution and cumulative completion curves
+- Forecasting of incomplete lead cohorts
+- Actual vs. forecast vs. historical baseline reporting
+- Submission, settlement, conversion, production, and premium metrics
+- Lead-source-specific forecasting
+- Rolling historical reference periods
+- Historical forecast reconstruction for backtesting
+- Multi-stage transformations implemented through chained CTEs
+- Automated persistence of forecast snapshots for downstream reporting and analysis
 
-Portfolio note: This is an anonymized version of a production-oriented analytical model. Company names, database objects, identifiers, source values, and proprietary business rules have been removed or changed.
+**Portfolio note:** This is an anonymized version of a production-oriented analytical model. Company and system names, database objects, identifiers, source values, dates, domain terminology, and proprietary calibration values have been removed or changed. The underlying forecasting methodology and program structure are preserved.
